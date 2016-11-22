@@ -1,6 +1,4 @@
-Start Deployment
+Start Deployment.
 Testing dockerize
 New Update
 Replicate Instances
-
-
